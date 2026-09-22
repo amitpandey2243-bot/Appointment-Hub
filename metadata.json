@@ -1,0 +1,6 @@
+{
+  "name": "AppointmentHub",
+  "description": "An immersive appointment booking and management platform for campus services, healthcare, beauty, tech repair, and wellness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
